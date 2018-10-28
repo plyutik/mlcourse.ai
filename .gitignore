@@ -116,3 +116,5 @@ data/athlete_events.csv
 *_solution.ipynb
 
 *data*
+*/data*
+*.dot
